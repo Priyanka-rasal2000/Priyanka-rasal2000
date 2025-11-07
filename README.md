@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanka-rasal200&label=Profile%20views&color=0e75b6&style=flat" alt="priyanka-rasal200" /> </p>
 
-- 🔭 I’m currently working on **Frontend Technology**
+- 🔭 I’m currently working on **JAVA**
 
 - 🌱 I’m currently learning **Fullsatck Java and Devops**
 
