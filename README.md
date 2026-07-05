@@ -1,21 +1,13 @@
 <h1 align="center">Hi 👋, I'm Priyanka Rasal.</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanka-rasal200&label=Profile%20views&color=0e75b6&style=flat" alt="priyanka-rasal200" /> </p>
 
 - 🔭 I’m currently working on **JAVA**
 
-- 🌱 I’m currently learning **Fullsatck Java and Devops**
-
-- 👯 I’m looking to collaborate on **Frontend Development**
-
-- 🤝 I’m looking for help with **Frontend Devlopment**
+- 🌱 I’m currently learning **Fullsatck Java and looking for an opourtunity**
 
 - 👨‍💻 All of my projects are available at [https://priyanka-rasal2000.github.io/MY-PORTFOLIO/](https://priyanka-rasal2000.github.io/MY-PORTFOLIO/)
-
-- 📝 I regularly write articles on [-](-)
-
-- 💬 Ask me about **React**
 
 - 📫 How to reach me **pjrasal2019@gmail.com**
 
