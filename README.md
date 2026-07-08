@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Priyanka!<br><br>I'm a Software Engineer focused on designing scalable and secure backend systems. <br>I enjoy working with Java, Spring Boot, Microservices, Hibernate, REST APIs, SQL, Git,Apache Kafka. <br>I'm passionate about writing clean code, improving system performance, and continuously expanding <br>my technical skills while contributing to impactful software projects.I enjoy developing backend applications<br>exploring new technologies, and continuously improving my coding and problem-solving skills. I'm currently seeking <br>an opportunity to start my career as a Java Backend Developer.
+Hi, I'm Priyanka Rasal!<br><br>I'm a Software Engineer focused on designing scalable and secure backend systems. <br>I enjoy working with Java, Spring Boot, Microservices, Hibernate, REST APIs, SQL, Git,Apache Kafka. <br>I'm passionate about writing clean code, improving system performance, and continuously expanding <br>my technical skills while contributing to impactful software projects.I enjoy developing backend applications<br>exploring new technologies, and continuously improving my coding and problem-solving skills. I'm currently seeking <br>an opportunity to start my career as a Java Backend Developer.
 
 
 ## 🌐 Socials:
